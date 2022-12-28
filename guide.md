@@ -25,8 +25,8 @@
 * git config --global user.email "your email address"
 ### Basic Git command
 * git init (initialized empty repository
-* git cloneik
-* git statusk
+* git clone
+* git status
 * git add filename or git add .
 * git commit -m "your commit msg"
 * git push or git push -u origin branchname
