@@ -24,20 +24,8 @@
 * git config --global user.name "your username"
 * git config --global user.email "your email address"
 ### Basic Git command
-* git init (initialized empty repository
-* git clone
+* git init
 * git status
-* git add filename or git add .
+* git add .
 * git commit -m "your commit msg"
-* git push or git push -u origin branchname
-* git pull or git push origin branchname
-* git remote rm <remote-name> or git remote remove <remote-name>
-* git remote -v
-* git remote add <name> <url>
-* git remote rename <old> <new>
-* git remote remove <name>
-* git remote set-branches [--add] <name> <branch>...
-* git remote get-url [--push] [--all] <name>
-* git remote set-url [--push] <name> <newurl> [<oldurl>]
-* git remote set-url --add <name> <newurl>
-* git remote set-url --delete <name> <url>
+* git push -u origin branchname
